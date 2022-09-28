@@ -1,0 +1,44 @@
+{
+    "plants": [
+      {
+        "id": "0",
+        "name": {
+          "en": "sour cherry",
+          "la": "prunus cerasus"
+        },
+ 
+          "organ": "fruit",
+          "quality": "cold and dry",
+          "good": "liver",
+          "bad": "spleen",
+          "antidote": "honey",
+          "description": "Cherry is very beneficial in relieving thirst and strengthening the warm stomach and liver. Cherries, especially if they are sour, are effective in dealing with the severity of bile and heatstroke and relieving their symptoms, and for this purpose, it can be consumed raw or in the form of a low-sweet syrup. Cherry is astringent and is very useful in relieving diarrhea, upset stomach and nausea and bitterness in the mouth caused by the return of bile to the stomach.",
+
+        "picture": {
+          "large": "https://ateliernord.de/humorism/api/plants/big/0l.jpg",
+          "medium": "https://ateliernord.de/humorism/api/plants/med/0m.jpg",
+          "thumbnail": "https://ateliernord.de/humorism/api/plants/thumb/0th.jpg"
+        }
+      },
+      {
+        "id": "1",
+        "name": {
+          "en": "sweet apple",
+          "la": "malus"
+        },
+ 
+          "organ": "fruit",
+          "quality": "warm and moist",
+          "good": "spleen",
+          "bad": "liver",
+          "antidote": "cinnamon",
+          "description": "Eating and smelling apples is invigorating and strengthens the main and vital organs of the body, including the liver, heart, and brain. It cleans both the mouth and teeth, the stomach and the digestive system from the remaining food particles. Apple is also a deodorizer for the stomach and mouth.Eating apples before meals cleans the stomach and stimulates appetite. Sweet apple produces good phlegm, relieves thirst and nausea and bilious diarrhea, and in other cases it is like sour apple.",
+
+        "picture": {
+          "large": "https://ateliernord.de/humorism/api/plants/big/1l.jpg",
+          "medium": "https://ateliernord.de/humorism/api/plants/med/1m.jpg",
+          "thumbnail": "https://ateliernord.de/humorism/api/plants/thumb/1th.jpg"
+        }
+      }
+    ]
+  }
